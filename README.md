@@ -2,7 +2,7 @@
 
 Create a plain text histogram at the command line. 
 
-This is a Python 3 port of `histogram.py` from [data_hacks](https://github.com/bitly/data_hacks/blob/master/data_hacks/histogram.py)
+This is a Python 3 port of `histogram.py` from [bitly/data_hacks](https://github.com/bitly/data_hacks/blob/master/data_hacks/histogram.py)
 
 # Install
 
