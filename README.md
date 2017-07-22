@@ -1,12 +1,13 @@
 # Overview
 
-Create a histogram in plain text  at the command line. 
+Create a plain text histogram at the command line. 
 
 This is a Python 3 port of `histogram.py` from [data_hacks](https://github.com/bitly/data_hacks/blob/master/data_hacks/histogram.py)
 
 # Install
 
-    curl https://raw.githubusercontent.com/clarkgrubb/histogram/master/histogram > /usr/local/bin/histogram
+    $ curl https://raw.githubusercontent.com/clarkgrubb/histogram/master/histogram > /usr/local/bin/histogram
+	$ chmod +x /usr/local/bin/histogram
 
 # Use
 
