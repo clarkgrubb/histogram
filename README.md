@@ -6,7 +6,7 @@ This is a Python 3 port of `histogram.py` from [data_hacks](https://github.com/b
 
 # Install
 
-
+    curl https://raw.githubusercontent.com/clarkgrubb/histogram/master/histogram > /usr/local/bin/histogram
 
 # Use
 
